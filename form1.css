@@ -1,0 +1,93 @@
+body{
+    background-position:center;
+    background-size:cover;
+    font-family: sans-serif;
+    margin-top: 40px;
+    font-size:10px;
+
+   
+
+
+}
+.title{
+    margin:10;
+    padding:0;
+    
+}
+.form{
+    width: 800px;
+    background-color:(163, 136, 87);
+    margin:auto;
+    padding:10px 10px 10px 10px; 
+    text-align: center;
+    border-radius: 15;
+    
+}
+.title{
+        background-color:rgb(57, 89, 90);
+        width: 800px;
+        margin: auto;
+}
+form{
+       padding: 7px;
+}
+#name{
+       width:1px;
+       height:50px;
+       
+
+}
+.Employee-Id{
+    
+    position: relative;
+    font-family: sans-serif;
+    left: 200px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size:20px ;
+}
+
+.name{
+    
+
+    margin-top: 4px;
+    width: 225px;
+    color: black;
+    font-size: 12px;
+    font-weight: 700;
+
+}
+
+.Last Name{
+    position: relative;
+    left: 300px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size:5px ;
+}
+  
+.btn{
+background: rgb(86, 161, 86);
+border-radius: 1px;
+display: block solid;
+margin:10px ;
+color:rgb(224, 207, 207) ;
+border:2px;
+padding: 10px;
+cursor:pointer;
+text-align:right;
+font-size: 15px;
+font-family: Lucida Sans;
+
+} 
+
+  
+
+
+
+
+
